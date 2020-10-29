@@ -16,4 +16,4 @@ After installation, the package will appear in the project file pip.json
 
 Simply import the ```piptoo.py``` file into your project
 
-<img src="https://i.ibb.co/db7zm3X/ide.png" alt="ide" border="0">
+<img src="https://i.ibb.co/db7zm3X/ide.png" alt="ide" border="0" width="100%" align="center">
