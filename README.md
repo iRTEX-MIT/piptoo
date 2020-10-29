@@ -14,6 +14,6 @@ After installation, the package will appear in the project file pip.json
 
 #### How to use piptoo.py as packages controller
 
-Simply import the ```piptoo.py``` file into your project
+Just import the ```piptoo.py``` file into your project
 
-<img src="https://i.ibb.co/db7zm3X/ide.png" alt="ide" border="0" width="100%" align="center">
+<img src="https://i.ibb.co/1Z5yy1m/vscode.png" alt="ide" border="0" width="100%" align="center">
